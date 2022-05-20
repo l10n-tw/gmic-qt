@@ -509,7 +509,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/MainWindow.cpp" line="117"/>
         <source>Copy G&apos;MIC command to clipboard</source>
-        <translation>複製 G&apos;MIC 命令到剪贴簿</translation>
+        <translation>複製 G&apos;MIC 命令到剪貼簿</translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="124"/>
@@ -546,7 +546,7 @@ Cannot retrieve default parameters.
         <source>Manage visible tags
 (Right-click on a fave or a filter to set/remove tags)</source>
         <translation>管理可見標籤
-（右鍵點選最愛或濾鏡以設定或移除標籤）</translation>
+（右鍵點選最愛或濾鏡，以設定或移除標籤）</translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="353"/>
