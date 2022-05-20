@@ -180,7 +180,7 @@
     <message>
         <location filename="../src/DialogSettings.cpp" line="103"/>
         <source>Quiet (default)</source>
-        <translation>簡要（預設）</translation>
+        <translation>安靜（預設）</translation>
     </message>
     <message>
         <location filename="../src/DialogSettings.cpp" line="104"/>
@@ -563,7 +563,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/MainWindow.cpp" line="358"/>
         <source>No download was needed.</source>
-        <translation>沒有需要下載。</translation>
+        <translation>無需下載。</translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="411"/>
@@ -671,7 +671,7 @@ Command found for this path : %3</source>
     <message>
         <location filename="../src/MainWindow.cpp" line="1391"/>
         <source>A gmic command is running.&lt;br&gt;Do you really want to close the plugin?</source>
-        <translation>一項 gmic 命令正在執行中。&lt;br&gt;你確認要關閉外掛程式嗎？</translation>
+        <translation>一項 gmic 命令正在執行中。&lt;br&gt;你確定要關閉外掛程式嗎？</translation>
     </message>
 </context>
 <context>
