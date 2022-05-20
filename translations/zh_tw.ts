@@ -31,12 +31,12 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="64"/>
         <source>Preview on the &amp;left</source>
-        <translation>在左邊預覽(&amp;L)</translation>
+        <translation>在左側預覽(&amp;L)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="94"/>
         <source>Pre&amp;view on right side</source>
-        <translation>在右邊預覽(&amp;V)</translation>
+        <translation>在右側預覽(&amp;V)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="113"/>
@@ -385,7 +385,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/HeadlessProcessor.cpp" line="116"/>
         <source>Error parsing supplied command: %1</source>
-        <translation>解析所提供的命令時出現錯誤，命令為：%1</translation>
+        <translation>解析所提供的命令時出現錯誤：%1</translation>
     </message>
     <message>
         <location filename="../src/HeadlessProcessor.cpp" line="119"/>
