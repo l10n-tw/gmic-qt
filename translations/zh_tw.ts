@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<!-- Original traditional Chinese translation done by ZX-WT (https://github.com/ZX-WT) -->
-
-<!DOCTYPE TS>
+<!-- Original traditional Chinese translation done by ZX-WT (https://github.com/ZX-WT) --><!DOCTYPE TS>
 <TS version="2.1" language="zh_TW">
 <context>
     <name>DialogSettings</name>
@@ -14,7 +11,7 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="221"/>
         <source>Internet updates</source>
-        <translation>網絡更新</translation>
+        <translation>網際網路更新</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="230"/>
@@ -29,17 +26,17 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="24"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>介面</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="64"/>
         <source>Preview on the &amp;left</source>
-        <translation>在左邊預覽 (&amp;L)</translation>
+        <translation>在左邊預覽(&amp;L)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="94"/>
         <source>Pre&amp;view on right side</source>
-        <translation>在右邊預覽 (&amp;V)</translation>
+        <translation>在右邊預覽(&amp;V)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="113"/>
@@ -49,32 +46,32 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="119"/>
         <source>&amp;Default</source>
-        <translation>預設 (&amp;D)</translation>
+        <translation>預設(&amp;D)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="126"/>
         <source>Dar&amp;k</source>
-        <translation>暗色 (&amp;K)</translation>
+        <translation>暗色(&amp;K)</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="139"/>
         <source>&lt;i&gt;(Restart needed)&lt;/I&gt;</source>
-        <translation>&lt;i&gt;(需要重開)&lt;/I&gt;</translation>
+        <translation>&lt;i&gt;(需要重啟程式)&lt;/I&gt;</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="149"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="179"/>
         <source>Always enable preview zooming</source>
-        <translation type="unfinished"></translation>
+        <translation>一律啟用預覽縮放</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(Warning: preview may be inaccurate&lt;br/&gt;if checked.)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(警告：啟用時預覽或會不準確。)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="215"/>
