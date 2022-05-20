@@ -16,7 +16,7 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="230"/>
         <source>Update now</source>
-        <translation>立刻更新</translation>
+        <translation>立即更新</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="30"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../ui/dialogsettings.ui" line="139"/>
         <source>&lt;i&gt;(Restart needed)&lt;/I&gt;</source>
-        <translation>&lt;i&gt;(需要重啟程式)&lt;/I&gt;</translation>
+        <translation>&lt;i&gt;（需要重啟程式）&lt;/I&gt;</translation>
     </message>
     <message>
         <location filename="../ui/dialogsettings.ui" line="149"/>
@@ -215,7 +215,7 @@
     <message>
         <location filename="../src/DialogSettings.cpp" line="125"/>
         <source>Check to use Native/OS color dialog, uncheck to use Qt&apos;s</source>
-        <translation>核取以使用系統原生的色彩對話框，不核取以使用 Qt 提供的版本</translation>
+        <translation>核取以使用系統原生的色彩對話框，不核取則使用 Qt 提供的版本</translation>
     </message>
 </context>
 <context>
@@ -338,14 +338,14 @@
     <message>
         <location filename="../src/GmicProcessor.cpp" line="339"/>
         <source>Image #%1 returned by filter has %2 channels (should be at most 4)</source>
-        <translation>濾鏡傳回的影像 #%1 含有 %2 個通道（應為最多 4 個）</translation>
+        <translation>濾鏡傳回的影像 #%1 含有 %2 個通道（應為不多於 4 個）</translation>
     </message>
     <message>
         <location filename="../src/GmicProcessor.cpp" line="373"/>
         <source>Image #%1 returned by filter has %2 channels
 (should be at most 4)</source>
         <translation>濾鏡傳回的影像 #%1 含有 %2 個通道
-（應為最多 4 個）</translation>
+（應為不多於 4 個）</translation>
     </message>
 </context>
 <context>
@@ -390,7 +390,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/HeadlessProcessor.cpp" line="119"/>
         <source>Supplied command (%1) does not match path (%2), (should be %3).</source>
-        <translation>所提供的命令 (%1) 不符合路徑 (%2)，（應為 %3）。</translation>
+        <translation>所提供的命令 (%1) 不符合路徑 (%2)（應為 %3）。</translation>
     </message>
     <message>
         <location filename="../src/HeadlessProcessor.cpp" line="233"/>
@@ -491,7 +491,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/Widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Translations are very likely to be incomplete.</source>
-        <translation>翻譯很大可能是不完整的。</translation>
+        <translation>翻譯很可能是不完整的。</translation>
     </message>
 </context>
 <context>
@@ -524,7 +524,7 @@ Cannot retrieve default parameters.
     <message>
         <location filename="../src/MainWindow.cpp" line="130"/>
         <source>Expand/Collapse all</source>
-        <translation>全部展開 / 折疊</translation>
+        <translation>全部展開或折疊</translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="132"/>
@@ -599,7 +599,7 @@ Cannot retrieve default parameters.
 Command: %1</source>
         <translation>呼叫外掛程式時使用了不能被辨認為濾鏡的命令：
 
-命令為：%1</translation>
+命令：%1</translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="427"/>
@@ -619,8 +619,8 @@ Command: %2
 Command found for this path : %3</source>
         <translation>呼叫外掛程式時使用了不符合所提供路徑的命令：
 
-路徑為：%1
-命令為：%2
+路徑：%1
+命令：%2
 路徑中找到的命令：%3</translation>
     </message>
     <message>
@@ -744,7 +744,7 @@ Command found for this path : %3</source>
     <message>
         <location filename="../src/Widgets/SearchFieldWidget.cpp" line="81"/>
         <source>Search in filters list (%1)</source>
-        <translation>搜尋濾鏡 (%1)</translation>
+        <translation>在濾鏡清單中搜尋 (%1)</translation>
     </message>
 </context>
 <context>
@@ -752,7 +752,7 @@ Command found for this path : %3</source>
     <message>
         <location filename="../src/Updater.cpp" line="199"/>
         <source>Error downloading %1 (empty file?)</source>
-        <translation>下載「%1」出錯（空白檔案？）</translation>
+        <translation>下載「%1」時出現錯誤（空白檔案？）</translation>
     </message>
     <message>
         <location filename="../src/Updater.cpp" line="208"/>
@@ -762,12 +762,12 @@ Command found for this path : %3</source>
     <message>
         <location filename="../src/Updater.cpp" line="213"/>
         <source>Error writing file %1</source>
-        <translation>寫入檔案「%1」出錯</translation>
+        <translation>寫入檔案「%1」時出現錯誤</translation>
     </message>
     <message>
         <location filename="../src/Updater.cpp" line="230"/>
         <source>Error downloading %1&lt;br/&gt;Error %2: %3</source>
-        <translation>下載「%1」出錯&lt;br/&gt;錯誤 %2：%3</translation>
+        <translation>下載「%1」時出現錯誤&lt;br/&gt;錯誤 %2：%3</translation>
     </message>
     <message>
         <location filename="../src/Updater.cpp" line="266"/>
@@ -896,7 +896,7 @@ Command found for this path : %3</source>
     <message>
         <location filename="../ui/languageselectionwidget.ui" line="35"/>
         <source>&lt;i&gt;(Restart needed)&lt;/i&gt;</source>
-        <translation>&lt;i&gt;(需要重啟程式)&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;（需要重啟程式）&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../ui/languageselectionwidget.ui" line="48"/>
