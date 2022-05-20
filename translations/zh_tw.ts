@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Original traditional Chinese translation done by ZX-WT (https://github.com/ZX-WT) --><!DOCTYPE TS>
+<!-- Original traditional Chinese translation done by ZX-WT (https://github.com/ZX-WT) -->
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW">
 <context>
